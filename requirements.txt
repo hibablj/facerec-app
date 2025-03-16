@@ -1,9 +1,1 @@
-streamlit
-face_recognition
-opencv-python
-numpy
-pillow
-dlib
-requests  # Optional, if you're making HTTP requests
-
 
